@@ -17,9 +17,11 @@ nav{
     justify-content: space-between;
     padding: 0 4rem;
     align-items: center;
+    font-family: 'Courier New', Courier, monospace;
    
 }
 .circle {
+    margin: 3rem;
     border-radius: 100% ;
     float: right ;
 }
@@ -36,17 +38,14 @@ ul.menu a{
 }
 .but01{
     
+    border-radius: 3px;
+    border: none;
     background-color: purple;
     color: white;
 }
-nav{
-    font-family: 'Courier New', Courier, monospace;
-}
 .sec01{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Courier New', Courier, monospace;
 }
 .ft01{
-    
-    
-    margin: 4rem;
+     margin: 4rem;
 }
