@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: white;
+    margin: 0;
+    padding: 1rem 2rem 2rem 4rem;
+    border: 15px solid purple;
+    border-radius: 50px;
+}
+nav{
+    
+    color: black;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4rem;
+    align-items: center;
+   
+}
+.circle {
+    border-radius: 100% ;
+    float: right ;
+}
+ul.menu{
+    float: right ;
+    display:flex;
+}
+li{
+    display:flex;
+}
+ul.menu a{
+    color: black;
+    text-decoration: none;
+}
+.but01{
+    
+    background-color: purple;
+    color: white;
+}
+nav{
+    font-family: 'Courier New', Courier, monospace;
+}
+.sec01{
+    font-family: 'Courier New', Courier, monospace;
+}
+.ft01{
+    
+    
+    margin: 4rem;
+}

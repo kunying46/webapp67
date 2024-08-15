@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    border: 1px solid blue;
+    color: orange;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4rem;
+    align-items: center;
+    background-color: beige;
+}
+ul.menu{
+    display:flex;
+    color: chocolate;
+    
+}
+ul.menu a{
+    text-decoration-line: none;
+}
+.sec01{
+    border: 1px soid salmon;
+}
+.sec01 h1{
+    color: blue;
+}
+.sec01 h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.atc01{
+    border: 2px dotted greenyellow;
+    font-size: 2rem;
+    color: blueviolet;
+    background-image: url(sun.jpg);
+}
+.atc02{
+    border: 2px dotted greenyellow;
+    font-size: 2rem;
+    color: blueviolet;
+    background-image: url(2.jpeg);
+}
+.aside01{
+    border: 3px blue;
+    float: right;
+    background-color: beige;
+}
+.ft01{
+    margin: 10rem;
+}
