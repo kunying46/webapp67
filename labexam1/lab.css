@@ -1,0 +1,44 @@
+body{
+    background-image: url(p.jpeg);
+    justify-content: center;
+    
+}
+div{
+    padding: 12rem;
+    margin-right: 30rem;
+    margin-left: 30rem;
+    margin-top: 12rem;
+    background-color: rgb(252, 253, 253);
+    height: 45rem;
+    position: fixed; /* or absolute */  
+    
+}
+header{
+    text-align: center;
+}
+form{
+    margin:3rem;
+    text-align: center;
+}
+.img{
+
+    margin: 3rem;
+    border-radius: 100% ;
+    align-items: center;
+}
+.sub1{
+    color: white;
+    background-color: green;
+}
+ul{
+    text-align: center;
+}
+li{
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    display:flex;
+    text-decoration: none;
+    padding: 5%;
+    margin: 7rem;
+}

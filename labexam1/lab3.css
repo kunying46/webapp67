@@ -1,0 +1,21 @@
+body{
+    background-image: url(p.jpeg);
+    justify-content: center;
+    
+}
+div{
+    padding: 12rem;
+    margin-right: 30rem;
+    margin-left: 30rem;
+    margin-top: 12rem;
+    background-color: rgb(252, 253, 253);
+    height: 45rem;
+    position: fixed; /* or absolute */  
+    
+}
+.fl{
+    float: left;
+}
+.f3{
+    float:right;
+}
